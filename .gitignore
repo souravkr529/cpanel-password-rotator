@@ -1,0 +1,45 @@
+# Output files
+/root/password-rotations/
+*.csv
+*.log
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Temporary files
+*.tmp
+*.temp
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# System files
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+
+# Sensitive data
+*.gpg
+secrets/
+private/
+
+# Test files
+test-output/
+test-*.csv
